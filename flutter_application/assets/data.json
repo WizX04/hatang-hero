@@ -1,0 +1,41 @@
+{
+  "HALAMAN": [
+    { "tag": "BINHI NG PALAY", "eng": "RICE GRAIN", "dum": "BINHI APAREY", "img": "assets/images/binhi_ng_palay.jpg", "snd_tag": "assets/vo/binhi_ng_palay.mp3", "snd_eng": "assets/vo/rice_grain.mp3", "snd": "assets/vo/binhi_aparey.mp3" },
+    { "tag": "DAHON", "eng": "LEAF", "dum": "AGID", "img": "assets/images/dahon.jpg", "snd_tag": "assets/vo/dahon.mp3", "snd_eng": "assets/vo/leaf.mp3", "snd": "assets/vo/agid.mp3" },
+    { "tag": "PINAGTATANIMAN", "eng": "PLOT", "dum": "AKAS", "img": "assets/images/akas.jpg", "snd_tag": "assets/vo/pinagtataniman.mp3", "snd_eng": "assets/vo/plot.mp3", "snd": "assets/vo/akas.mp3" },
+    { "tag": "ARARO", "eng": "PLOW", "dum": "ARADU", "img": "assets/images/araru.jpg", "snd_tag": "assets/vo/araro.mp3", "snd_eng": "assets/vo/plow.mp3", "snd": "assets/vo/aradu.mp3" },
+    { "tag": "PANGNGANGASO", "eng": "HUNTING", "dum": "GEIKAG", "img": "assets/images/geikag.jpg", "snd_tag": "assets/vo/pangngangaso.mp3", "snd_eng": "assets/vo/hunting.mp3", "snd": "assets/vo/geikag.mp3" },
+    { "tag": "KAINGIN", "eng": "FARM", "dum": "KAENGEN", "img": "assets/images/kaengen.jpg", "snd_tag": "assets/vo/kaingin.mp3", "snd_eng": "assets/vo/farm.mp3", "snd": "assets/vo/kaengen.mp3" },
+    { "tag": "PANGGAMOT NA DAHON", "eng": "HERBAL MEDICINE", "dum": "KALALAWAN", "img": "assets/images/kalalawan.jpg", "snd_tag": "assets/vo/panggamot_na_dahon.mp3", "snd_eng": "assets/vo/herbal_medicine.mp3", "snd": "assets/vo/kalalawan.mp3" },
+    { "tag": "PUNONG KAHOY", "eng": "TREE", "dum": "PANGDEGMAN", "img": "assets/images/pangdegman.jpg", "snd_tag": "assets/vo/punong_kahoy.mp3", "snd_eng": "assets/vo/tree.mp3", "snd": "assets/vo/pangdegman.mp3" },
+    { "tag": "PALAY", "eng": "RICE GRAINS", "dum": "PARAY", "img": "assets/images/paray.jpg", "snd_tag": "assets/vo/palay.mp3", "snd_eng": "assets/vo/rice_grains.mp3", "snd": "assets/vo/paray.mp3" },
+    { "tag": "BINHI", "eng": "SEED", "dum": "UMBINHI", "img": "assets/images/umbinhi.jpg", "snd_tag": "assets/vo/binhi.mp3", "snd_eng": "assets/vo/seed.mp3", "snd": "assets/vo/umbinhi.mp3" },
+    { "tag": "PAGBUBUNGKAL", "eng": "TILLING", "dum": "UMPAPATIK", "img": "assets/images/umpapatik.jpg", "snd_tag": "assets/vo/pagbubungkal.mp3", "snd_eng": "assets/vo/tilling.mp3", "snd": "assets/vo/umpapatik.mp3" },
+    { "tag": "BULAKLAK", "eng": "FLOWER", "dum": "AMBUDYAK", "img": "assets/images/ambudyak.jpg", "snd_tag": "assets/vo/bulaklak.mp3", "snd_eng": "assets/vo/flower.mp3", "snd": "assets/vo/ambudyak.mp3" }
+  ],
+  "GULAY": [
+    { "tag": "GULAY NA GABI", "eng": "TARO", "dum": "GEBI", "img": "assets/images/gebi.jpg", "snd_tag": "assets/vo/gulay_na_gabi.mp3", "snd_eng": "assets/vo/taro.mp3", "snd": "assets/vo/gebi.mp3" },
+    { "tag": "KAMOTE", "eng": "SWEET POTATO", "dum": "KAMUTE", "img": "assets/images/kamute.jpg", "snd_tag": "assets/vo/kamote.mp3", "snd_eng": "assets/vo/sweet_potato.mp3", "snd": "assets/vo/kamute.mp3" },
+    { "tag": "SILING LABUYO", "eng": "CAYENNE PEPPER", "dum": "UMSILI", "img": "assets/images/umsili.jpg", "snd_tag": "assets/vo/siling_labuyo.mp3", "snd_eng": "assets/vo/cayenne_pepper.mp3", "snd": "assets/vo/umsili.mp3" },
+    { "tag": "SITAW", "eng": "STRING BEANS", "dum": "PERIKOLIS", "img": "assets/images/perikolis.jpg", "snd_tag": "assets/vo/sitaw.mp3", "snd_eng": "assets/vo/string_beans.mp3", "snd": "assets/vo/perikolis.mp3" },
+    { "tag": "KAMOTENG KAHOY", "eng": "CASSAVA", "dum": "SAMAR", "img": "assets/images/samar.jpg", "snd_tag": "assets/vo/kamoteng_kahoy.mp3", "snd_eng": "assets/vo/cassava.mp3", "snd": "assets/vo/samar.mp3" }
+  ],
+  "PRUTAS": [
+    { "tag": "SAGING", "eng": "BANANA", "dum": "BETUG", "img": "assets/images/betug.jpg", "snd_tag": "assets/vo/saging.mp3", "snd_eng": "assets/vo/banana.mp3", "snd": "assets/vo/betug.mp3" },
+    { "tag": "LANGKA", "eng": "JACKFRUIT", "dum": "NANGKA", "img": "assets/images/nangka.jpg", "snd_tag": "assets/vo/langka.mp3", "snd_eng": "assets/vo/jackfruit.mp3", "snd": "assets/vo/nangka.mp3" }
+  ],
+  "HAYOP": [
+    { "tag": "KALABAW", "eng": "CARABAO", "dum": "DEMULAG", "img": "assets/images/demulag.jpg", "snd_tag": "assets/vo/kalabaw.mp3", "snd_eng": "assets/vo/carabao.mp3", "snd": "assets/vo/demulag.mp3" },
+    { "tag": "MALIIT NA BUBUYOG", "eng": "SWEAT BEES", "dum": "KUNDAN", "img": "assets/images/kundan.jpg", "snd_tag": "assets/vo/maliit_na_bubuyog.mp3", "snd_eng": "assets/vo/sweat_bees.mp3", "snd": "assets/vo/kundan.mp3" },
+    { "tag": "BABOY", "eng": "PIG", "dum": "BEBUY", "img": "assets/images/bebuy.jpg", "snd_tag": "assets/vo/baboy.mp3", "snd_eng": "assets/vo/pig.mp3", "snd": "assets/vo/bebuy.mp3" },
+    { "tag": "UNGGOY", "eng": "MONKEY", "dum": "ADEKO", "img": "assets/images/adeko.jpg", "snd_tag": "assets/vo/unggoy.mp3", "snd_eng": "assets/vo/monkey.mp3", "snd": "assets/vo/adeko.mp3" },
+    { "tag": "KAMBING", "eng": "GOAT", "dum": "ONGKAMBING", "img": "assets/images/ongkambing.jpg", "snd_tag": "assets/vo/kambing.mp3", "snd_eng": "assets/vo/goat.mp3", "snd": "assets/vo/ongkambing.mp3" },
+    { "tag": "AHAS", "eng": "SNAKE", "dum": "ANIPA", "img": "assets/images/anipa.jpg", "snd_tag": "assets/vo/ahas.mp3", "snd_eng": "assets/vo/snake.mp3", "snd": "assets/vo/anipa.mp3" },
+    { "tag": "IPIS", "eng": "COCKROACH", "dum": "DALIPUS", "img": "assets/images/dalipus.jpg", "snd_tag": "assets/vo/ipis.mp3", "snd_eng": "assets/vo/cockroach.mp3", "snd": "assets/vo/dalipus.mp3" }
+  ],
+  "KATAWAN": [
+    { "tag": "KAMAY", "eng": "HAND", "dum": "ALIMA", "img": "assets/images/alima.jpg", "snd_tag": "assets/vo/kamay.mp3", "snd_eng": "assets/vo/hand.mp3", "snd": "assets/vo/alima.mp3" },
+    { "tag": "TIYAN", "eng": "STOMACH", "dum": "PITU", "img": "assets/images/pitu.jpg", "snd_tag": "assets/vo/tiyan.mp3", "snd_eng": "assets/vo/stomach.mp3", "snd": "assets/vo/pitu.mp3" },
+    { "tag": "PAA", "eng": "FOOT", "dum": "DA-DA", "img": "assets/images/da-da.jpg", "snd_tag": "assets/vo/paa.mp3", "snd_eng": "assets/vo/foot.mp3", "snd": "assets/vo/da_da.mp3" }
+ ]
+}
